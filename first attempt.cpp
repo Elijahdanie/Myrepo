@@ -1,6 +1,4 @@
-/* Copyright, This Script has been written by Elijah Effiong Daniel, no part of this script
-    Should be copied without the knowledge of the script writter, if discovered is punishable
-    under the law section jonsing, subsection madness of naija developers code. lmao na so!!. oshey
+/* Script by Elijah Effiong Daniel
 */
 
 
